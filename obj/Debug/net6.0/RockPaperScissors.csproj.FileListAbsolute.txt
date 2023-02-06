@@ -1,0 +1,15 @@
+/Users/richellethorpe/Desktop/RockPaperScissors/RPC.Solution/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.deps.json
+/Users/richellethorpe/Desktop/RockPaperScissors/RPC.Solution/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.dll
+/Users/richellethorpe/Desktop/RockPaperScissors/RPC.Solution/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.pdb
+/Users/richellethorpe/Desktop/RockPaperScissors/RPC.Solution/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.csproj.AssemblyReference.cache
+/Users/richellethorpe/Desktop/RockPaperScissors/RPC.Solution/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/richellethorpe/Desktop/RockPaperScissors/RPC.Solution/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.AssemblyInfoInputs.cache
+/Users/richellethorpe/Desktop/RockPaperScissors/RPC.Solution/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.AssemblyInfo.cs
+/Users/richellethorpe/Desktop/RockPaperScissors/RPC.Solution/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/richellethorpe/Desktop/RockPaperScissors/RPC.Solution/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.dll
+/Users/richellethorpe/Desktop/RockPaperScissors/RPC.Solution/RockPaperScissors/obj/Debug/net6.0/refint/RockPaperScissors.dll
+/Users/richellethorpe/Desktop/RockPaperScissors/RPC.Solution/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.pdb
+/Users/richellethorpe/Desktop/RockPaperScissors/RPC.Solution/RockPaperScissors/obj/Debug/net6.0/ref/RockPaperScissors.dll
+/Users/richellethorpe/Desktop/RockPaperScissors/RPC.Solution/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors
+/Users/richellethorpe/Desktop/RockPaperScissors/RPC.Solution/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.runtimeconfig.json
+/Users/richellethorpe/Desktop/RockPaperScissors/RPC.Solution/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.genruntimeconfig.cache
